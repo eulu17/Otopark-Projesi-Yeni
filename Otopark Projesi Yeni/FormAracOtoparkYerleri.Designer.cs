@@ -45,7 +45,7 @@
             // button1
             // 
             button1.BackColor = Color.Linen;
-            button1.Location = new Point(195, 55);
+            button1.Location = new Point(231, 60);
             button1.Name = "button1";
             button1.Size = new Size(94, 55);
             button1.TabIndex = 0;
@@ -55,7 +55,7 @@
             // button2
             // 
             button2.BackColor = Color.Linen;
-            button2.Location = new Point(195, 116);
+            button2.Location = new Point(231, 121);
             button2.Name = "button2";
             button2.Size = new Size(94, 55);
             button2.TabIndex = 1;
@@ -65,7 +65,7 @@
             // button3
             // 
             button3.BackColor = Color.Linen;
-            button3.Location = new Point(195, 177);
+            button3.Location = new Point(231, 182);
             button3.Name = "button3";
             button3.Size = new Size(94, 55);
             button3.TabIndex = 2;
@@ -75,7 +75,7 @@
             // button4
             // 
             button4.BackColor = Color.Linen;
-            button4.Location = new Point(195, 238);
+            button4.Location = new Point(231, 243);
             button4.Name = "button4";
             button4.Size = new Size(94, 55);
             button4.TabIndex = 3;
@@ -85,7 +85,7 @@
             // button5
             // 
             button5.BackColor = Color.Linen;
-            button5.Location = new Point(195, 299);
+            button5.Location = new Point(231, 304);
             button5.Name = "button5";
             button5.Size = new Size(94, 55);
             button5.TabIndex = 4;
@@ -95,7 +95,7 @@
             // button6
             // 
             button6.BackColor = Color.Linen;
-            button6.Location = new Point(420, 55);
+            button6.Location = new Point(456, 60);
             button6.Name = "button6";
             button6.Size = new Size(94, 55);
             button6.TabIndex = 5;
@@ -105,7 +105,7 @@
             // button7
             // 
             button7.BackColor = Color.Linen;
-            button7.Location = new Point(420, 116);
+            button7.Location = new Point(456, 121);
             button7.Name = "button7";
             button7.Size = new Size(94, 55);
             button7.TabIndex = 6;
@@ -115,7 +115,7 @@
             // button8
             // 
             button8.BackColor = Color.Linen;
-            button8.Location = new Point(420, 177);
+            button8.Location = new Point(456, 182);
             button8.Name = "button8";
             button8.Size = new Size(94, 55);
             button8.TabIndex = 7;
@@ -125,7 +125,7 @@
             // button9
             // 
             button9.BackColor = Color.Linen;
-            button9.Location = new Point(420, 238);
+            button9.Location = new Point(456, 243);
             button9.Name = "button9";
             button9.Size = new Size(94, 55);
             button9.TabIndex = 8;
@@ -135,7 +135,7 @@
             // button10
             // 
             button10.BackColor = Color.Linen;
-            button10.Location = new Point(420, 299);
+            button10.Location = new Point(456, 304);
             button10.Name = "button10";
             button10.Size = new Size(94, 55);
             button10.TabIndex = 9;
@@ -146,7 +146,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.Location = new Point(336, 26);
+            label1.Location = new Point(372, 31);
             label1.Name = "label1";
             label1.Size = new Size(56, 28);
             label1.TabIndex = 10;
@@ -156,7 +156,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label2.Location = new Point(337, 361);
+            label2.Location = new Point(373, 366);
             label2.Name = "label2";
             label2.Size = new Size(55, 28);
             label2.TabIndex = 11;

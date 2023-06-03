@@ -137,7 +137,7 @@
             groupBoxKisi.Controls.Add(textBoxTelefon);
             groupBoxKisi.Controls.Add(textBoxEmail);
             groupBoxKisi.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            groupBoxKisi.Location = new Point(61, 35);
+            groupBoxKisi.Location = new Point(55, 23);
             groupBoxKisi.Name = "groupBoxKisi";
             groupBoxKisi.Size = new Size(334, 345);
             groupBoxKisi.TabIndex = 10;
@@ -210,7 +210,7 @@
             groupBoxArac.Controls.Add(comboBoxSeri);
             groupBoxArac.Controls.Add(textBoxRenk);
             groupBoxArac.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            groupBoxArac.Location = new Point(401, 35);
+            groupBoxArac.Location = new Point(395, 23);
             groupBoxArac.Name = "groupBoxArac";
             groupBoxArac.Size = new Size(367, 345);
             groupBoxArac.TabIndex = 11;
@@ -300,7 +300,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(301, 399);
+            button1.Location = new Point(295, 387);
             button1.Name = "button1";
             button1.Size = new Size(94, 39);
             button1.TabIndex = 12;
@@ -310,7 +310,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(401, 399);
+            button2.Location = new Point(395, 387);
             button2.Name = "button2";
             button2.Size = new Size(94, 39);
             button2.TabIndex = 13;
@@ -323,7 +323,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Yellow;
-            ClientSize = new Size(780, 486);
+            ClientSize = new Size(800, 450);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(groupBoxArac);
